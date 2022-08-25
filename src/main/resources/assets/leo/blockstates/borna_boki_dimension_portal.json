@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "leo:block/borna_boki_dimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "leo:block/borna_boki_dimension_portal_ns"
+    }
+  }
+}

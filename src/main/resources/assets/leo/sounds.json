@@ -1,0 +1,11 @@
+{
+  "nflost": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "leo:nf-lost-ft.-hopsin",
+        "stream": true
+      }
+    ]
+  }
+}

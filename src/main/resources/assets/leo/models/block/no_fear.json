@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "leo:blocks/capture",
+    "up": "leo:blocks/capture",
+    "north": "leo:blocks/capture",
+    "east": "leo:blocks/nofear",
+    "south": "leo:blocks/capture",
+    "west": "leo:blocks/capture",
+    "particle": "leo:blocks/capture"
+  }
+}

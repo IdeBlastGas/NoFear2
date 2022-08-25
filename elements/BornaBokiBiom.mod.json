@@ -1,0 +1,111 @@
+{
+  "_fv": 33,
+  "_type": "biome",
+  "definition": {
+    "name": "Borna Boki Biom",
+    "groundBlock": {
+      "value": "CUSTOM:NoFear"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.NETHERITE_BLOCK"
+    },
+    "underwaterBlock": {
+      "value": "Blocks.DIAMOND_ORE"
+    },
+    "airColor": {
+      "value": -22331,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -59976,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -14138582,
+      "falpha": 0.0
+    },
+    "waterFogColor": {
+      "value": -5291025,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": ""
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "CUSTOM:BornaBoki"
+    },
+    "particlesProbability": 0.5,
+    "biomeCategory": "NONE",
+    "rainingPossibility": 0.5,
+    "temperature": 0.5,
+    "baseHeight": 0.1,
+    "heightVariation": 0.2,
+    "spawnBiome": true,
+    "spawnBiomeNether": false,
+    "spawnInCaves": false,
+    "biomeWeight": 10,
+    "biomeDictionaryTypes": [],
+    "grassPerChunk": 4,
+    "seagrassPerChunk": 0,
+    "flowersPerChunk": 4,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPatchesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "treesPerChunk": 1,
+    "vanillaTreeType": "Default",
+    "treeType": 1,
+    "minHeight": 7,
+    "treeStem": {
+      "value": "Blocks.LIME_BED"
+    },
+    "treeBranch": {
+      "value": "Blocks.IRON_BLOCK"
+    },
+    "treeVines": {
+      "value": "Blocks.NETHER_GOLD_ORE"
+    },
+    "treeFruits": {
+      "value": "Blocks.AMETHYST_CLUSTER"
+    },
+    "spawnStronghold": false,
+    "spawnMineshaft": false,
+    "spawnMineshaftMesa": false,
+    "spawnPillagerOutpost": false,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": false,
+    "oceanRuinType": "NONE",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": false,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "NONE",
+    "defaultFeatures": [
+      "Caves",
+      "Ores",
+      "FrozenTopLayer"
+    ],
+    "spawnEntries": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 33,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "nofear",
+    "name": "NF LOST",
+    "description": "NF LOST",
+    "creativeTab": {
+      "value": "CUSTOM:NoFearr"
+    },
+    "music": {
+      "value": "CUSTOM:nflost"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

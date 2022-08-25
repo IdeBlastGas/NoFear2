@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "leo:blocks/capture",
+    "particle": "leo:blocks/capture"
+  }
+}

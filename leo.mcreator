@@ -1,0 +1,143 @@
+{
+  "mod_elements": [
+    {
+      "name": "NFTheSearch",
+      "type": "musicdisc",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nf_the_search"
+    },
+    {
+      "name": "NoFearr",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "no_fearr"
+    },
+    {
+      "name": "BornaBoki",
+      "type": "particle",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borna_boki"
+    },
+    {
+      "name": "BornaBokiEntity",
+      "type": "livingentity",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borna_boki_entity"
+    },
+    {
+      "name": "BornaBokiEntityParticleSpawningCondition",
+      "type": "procedure",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borna_boki_entity_particle_spawning_condition",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "BornaBoki2",
+      "type": "plant",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borna_boki_2"
+    },
+    {
+      "name": "BornaBokiDimension",
+      "type": "dimension",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borna_boki_dimension",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "BornaBokiBiom",
+      "type": "biome",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borna_boki_biom"
+    },
+    {
+      "name": "NoFear",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "no_fear"
+    },
+    {
+      "name": "BornaBokiFluid",
+      "type": "fluid",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borna_boki_fluid",
+      "metadata": {
+        "gb": true
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "nflost",
+      "files": [
+        "nf-lost-ft.-hopsin"
+      ],
+      "category": "music",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.leo.borna_boki_entity_spawn_egg": "BornaBoki Spawn Egg",
+      "fluid.leo.borna_boki_fluid": "Borna Boki Fluid",
+      "item.leo.nf_the_search": "NF LOST",
+      "itemGroup.tabno_fearr": "No Fear",
+      "entity.leo.borna_boki_entity": "BornaBoki",
+      "block.leo.borna_boki_2": "Borna Boki 2",
+      "block.leo.no_fear": "No Fear",
+      "item.leo.borna_boki_fluid_bucket": "Borna Boki Fluid Bucket",
+      "item.leo.borna_boki_dimension": "Borna Boki Dimension Portal Igniter",
+      "subtitles.nflost": "",
+      "item.leo.nf_the_search.desc": "NF LOST",
+      "block.leo.borna_boki_fluid": "Borna Boki Fluid",
+      "biome.leo.borna_boki_biom": "Borna Boki Biom"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "leo",
+    "modName": "Leo",
+    "version": "1.0.0",
+    "author": "Leo, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "modElementsPackage": "net.mcreator.leo",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200234517
+}

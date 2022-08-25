@@ -1,0 +1,11 @@
+{
+  "_fv": 33,
+  "_type": "tab",
+  "definition": {
+    "name": "No Fear",
+    "icon": {
+      "value": "CUSTOM:NFTheSearch"
+    },
+    "showSearch": false
+  }
+}
