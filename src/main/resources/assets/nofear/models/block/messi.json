@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nofear:blocks/7c7c5e110ea032d01d0eb7c179f8c63b-06d77",
+    "up": "nofear:blocks/7c7c5e110ea032d01d0eb7c179f8c63b-06d77",
+    "north": "nofear:blocks/7c7c5e110ea032d01d0eb7c179f8c63b-06d77",
+    "east": "nofear:blocks/7c7c5e110ea032d01d0eb7c179f8c63b-06d77",
+    "south": "nofear:blocks/7c7c5e110ea032d01d0eb7c179f8c63b-06d77",
+    "west": "nofear:blocks/7c7c5e110ea032d01d0eb7c179f8c63b-06d77",
+    "particle": "nofear:blocks/7c7c5e110ea032d01d0eb7c179f8c63b-06d77"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nofear:blocks/unknown-0c9ed",
+    "up": "nofear:blocks/unknown-0c9ed",
+    "north": "nofear:blocks/unknown-0c9ed",
+    "east": "nofear:blocks/unknown-0c9ed",
+    "south": "nofear:blocks/unknown-0c9ed",
+    "west": "nofear:blocks/unknown-0c9ed",
+    "particle": "nofear:blocks/unknown-0c9ed"
+  }
+}

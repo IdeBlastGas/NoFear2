@@ -1,0 +1,47 @@
+{
+  "pavle": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "nofear:1-pavle_1051",
+        "stream": false
+      }
+    ]
+  },
+  "aughhhh": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "nofear:aughhhhh_meme_sound",
+        "stream": false
+      }
+    ]
+  },
+  "jaojao": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "nofear:jao_ajo",
+        "stream": false
+      }
+    ]
+  },
+  "staosinamene": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "nofear:stao_si_na_mene",
+        "stream": false
+      }
+    ]
+  },
+  "stroking": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "nofear:im_over_here_stroking_my_shit_320_kbps",
+        "stream": false
+      }
+    ]
+  }
+}
