@@ -28,6 +28,7 @@ public class LeoModItems {
 	public static final RegistryObject<Item> BORNA_BOKI_DIMENSION = REGISTRY.register("borna_boki_dimension", () -> new BornaBokiDimensionItem());
 	public static final RegistryObject<Item> NO_FEAR = block(LeoModBlocks.NO_FEAR, LeoModTabs.TAB_NO_FEARR);
 	public static final RegistryObject<Item> BORNA_BOKI_FLUID_BUCKET = REGISTRY.register("borna_boki_fluid_bucket", () -> new BornaBokiFluidItem());
+	public static final RegistryObject<Item> MRS = block(LeoModBlocks.MRS, LeoModTabs.TAB_NO_FEARR);
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block, CreativeModeTab tab) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties().tab(tab)));

@@ -15,6 +15,7 @@ import net.minecraftforge.api.distmarker.Dist;
 import net.minecraft.world.level.block.Block;
 
 import net.mcreator.leo.block.NoFearBlock;
+import net.mcreator.leo.block.MrsBlock;
 import net.mcreator.leo.block.BornaBokiFluidBlock;
 import net.mcreator.leo.block.BornaBokiDimensionPortalBlock;
 import net.mcreator.leo.block.BornaBoki2Block;
@@ -27,6 +28,7 @@ public class LeoModBlocks {
 			() -> new BornaBokiDimensionPortalBlock());
 	public static final RegistryObject<Block> NO_FEAR = REGISTRY.register("no_fear", () -> new NoFearBlock());
 	public static final RegistryObject<Block> BORNA_BOKI_FLUID = REGISTRY.register("borna_boki_fluid", () -> new BornaBokiFluidBlock());
+	public static final RegistryObject<Block> MRS = REGISTRY.register("mrs", () -> new MrsBlock());
 
 	@Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD, value = Dist.CLIENT)
 	public static class ClientSideHandler {

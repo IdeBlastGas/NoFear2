@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "leo:blocks/nofear",
+    "up": "leo:blocks/nofear",
+    "north": "leo:blocks/nofear",
+    "east": "leo:blocks/nofear",
+    "south": "leo:blocks/nofear",
+    "west": "leo:blocks/nofear",
+    "particle": "leo:blocks/nofear"
+  }
+}
